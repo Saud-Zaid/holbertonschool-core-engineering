@@ -1,0 +1,8 @@
+# Python Fundamentals
+
+Fundamental Python concepts and exercises in the Holberton School Core Engineering curriculum.
+
+## Subdirectories
+
+- `hello_world`: Introduction to Python scripts, execution, and structured output.
+- `control_flow`: Conditional statements and control flow structures.

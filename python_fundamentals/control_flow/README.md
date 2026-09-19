@@ -1,0 +1,7 @@
+# Python Fundamentals - Control Flow
+
+This project covers control flow mechanisms in Python, including conditional statements (`if`, `elif`, `else`) and decision making.
+
+## Files and Tasks
+
+- `positive_or_negative.py`: Determines if a randomly generated integer is positive, negative, or zero using conditional statements.
